@@ -32,4 +32,4 @@ I believe in giving credit where it is due. The visual and technical foundation 
 ---
 
 ## License
-Except where otherwise noted, all content and music on this site are dedicated to the **Public Domain** under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+Except where otherwise noted, the blog posts on this site and all music released by Hétu are dedicated to the **Public Domain** under the Creative Commons CC0 1.0 Universal License.(https://creativecommons.org/publicdomain/zero/1.0/).
