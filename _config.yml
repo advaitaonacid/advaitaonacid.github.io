@@ -45,6 +45,11 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
+# License Settings
+license:
+  name: CC0 1.0 Universal
+  link: 'https://creativecommons.org/publicdomain/zero/1.0/'
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
