@@ -1,7 +1,7 @@
 ---
 title: The Trinity Model — A New Cycle of Giving
-author: Hétu
-date: 2026-05-10 10:00:00 +0530
+author: Hetu
+date: 2026-05-10 12:00:00 +0530
 categories: [Philosophy, Meta]
 tags: [trinity-model, open-source, charity]
 pin: true
