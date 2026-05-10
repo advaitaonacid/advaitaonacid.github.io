@@ -17,7 +17,7 @@
   url: 'https://www.youtube.com/@advaitaonacid'
 
 - type: rss
-  icon: 'fas fa-bookmark'
+  icon: 'fas fa-rss'
   url: 'https://advaitaonacid.substack.com/'
 # Uncomment and complete the url below to enable more contact options
 #
