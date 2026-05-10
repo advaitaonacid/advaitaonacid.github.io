@@ -1,23 +1,17 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
----
 layout: page
 title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-## The Hétu Project: The Infinite Loop
+## The Hétu Project:
 
 **Hétu** is a digital experiment in radical transparency and open-source creativity. As a student and music producer, I wanted to create a system where the "attention" gathered by my music directly funds the rebuilding of communities and the education of children.
 
 ### How it Works
 1. **The Music:** Every track is released as **CC0 (Public Domain)**. You can use it, remix it, or sample it without asking for permission.
-2. **The Revenue:** 100% of my artist royalties from streaming platforms (Spotify, Apple Music, etc.) are routed directly to high-impact charities via DistroKid Splits.
+2. **The Revenue:** 80% of my artist royalties from streaming platforms (Spotify, Apple Music, etc.) are routed directly to high-impact charities via DistroKid Splits. 20% are used to manage and sustain the project overheads.
 3. **The Goal:** To turn digital loops into a tangible, infinite cycle of giving.
 
 ---

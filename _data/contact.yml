@@ -1,18 +1,24 @@
 #  The contact options.
 
 - type: github
-  icon: "fab fa-github"
+  icon: 'fab fa-github'
+  url: 'https://github.com/advaitaonacid'
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: spotify
+  icon: 'fab fa-spotify'
+  url: 'https://distrokid.com/hyperfollow/htu1/82'
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: instagram
+  icon: 'fab fa-instagram'
+  url: 'https://www.instagram.com/advaitaonacid'
+
+- type: youtube
+  icon: 'fab fa-youtube'
+  url: 'https://www.youtube.com/@advaitaonacid'
 
 - type: rss
-  icon: "fas fa-rss"
-  noblank: true
+  icon: 'fas fa-bookmark'
+  url: 'https://advaitaonacid.substack.com/'
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon

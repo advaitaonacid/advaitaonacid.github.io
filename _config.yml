@@ -25,25 +25,19 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: 'https://advaitaonacid.github.io'
 
+# Fill in your handles here
 github:
-  username: advaitaonacid # change to your GitHub username
+  username: advaitaonacid
 
+# If you aren't using Twitter, leave it blank or comment it out
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: 
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Hétu
-  email: # change to your email address
-  fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
+  email: # leave blank or add your email
   links:
-    # The first element serves as the copyright owner's link
-    - https://distrokid.com/hyperfollow/htu1/82 # change to your Twitter homepage
-    - https://advaitaonacid.substack.com/ # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # Clear out the links here so they don't double-up with your contact.yml
 
 # License Settings
 license:
