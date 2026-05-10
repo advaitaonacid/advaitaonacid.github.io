@@ -9,7 +9,6 @@ pin: true
 
 Welcome to **Hétu**. This project is a digital experiment in radical transparency and self-sustaining creativity. 
 
-### The Trinity of the Loop
 We have moved beyond a simple donation model into what I call the **Trinity Model**. For this project to be eternal, it must balance three specific energies:
 
 1. **Rajas (The Music):** The active creation. I release music and its underlying Ableton files under a **CC0 (Public Domain)** license. It is meant to be used, sampled, and reimagined by you.
