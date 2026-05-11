@@ -46,25 +46,25 @@ Here is exactly how the three energies interact in the Hétu ecosystem:
 ![The Trinity Model](/assets/img/trinity-model.png)
 
 1. **Rajas (The Internet Loop)**
-Rajas is the energy of action, passion, and creation. This is the engine of the project.
+	Rajas is the energy of action, passion, and creation. This is the engine of the project.
 
-**What Hétu Gives (More Music):** I upload high-quality music and the raw, open-source project files to the internet for anyone to listen to, remix, or learn from. There is no gatekeeping. The information entropy is maximized.
+	- **What Hétu Gives (More Music):** I upload high-quality music and the raw, open-source project files to the internet for anyone to listen to, remix, or learn from. There is no gatekeeping. The information entropy is maximized.
 
-**What Hétu Gets (More Revenue):** The attention the music gathers on streaming platforms like Spotify inevitably generates royalty payouts.
+	- **What Hétu Gets (More Revenue):** The attention the music gathers on streaming platforms like Spotify inevitably generates royalty payouts.
 
 2. **Sattva (The Environment Loop)**
-Sattva is the energy of purity, harmony, and giving. This is how we ensure the loop doesn't become a selfish, downward spiral.
+	Sattva is the energy of purity, harmony, and giving. This is how we ensure the loop doesn't become a selfish, downward spiral.
 
-**What Hétu Gives (More Charity):** 80% of the inevitable revenue is immediately and automatically routed away from me to high-impact humanitarian causes (like clean water, hunger relief, and disaster rebuilding).
+	- **What Hétu Gives (More Charity):** 80% of the inevitable revenue is immediately and automatically routed away from me to high-impact humanitarian causes (like clean water, hunger relief, and disaster rebuilding).
 
-**What Hétu Gets (More Growth):** By returning capital to Mother Earth, the environment heals. People gain access to basic human needs, allowing them to thrive, create, and discover art. The audience and the ecosystem grow organically because the foundation is built on goodwill, not extraction.
+	- **What Hétu Gets (More Growth):** By returning capital to Mother Earth, the environment heals. People gain access to basic human needs, allowing them to thrive, create, and discover art. The audience and the ecosystem grow organically because the foundation is built on goodwill, not extraction.
 
 3. **Tamas (The Material Loop)**
-Tamas is the energy of grounding, mass, and preservation. Without Tamas, a project will burn out and collapse under its own weight.
+	Tamas is the energy of grounding, mass, and preservation. Without Tamas, a project will burn out and collapse under its own weight.
 
-**What Hétu Gives (More Resources):** The remaining 20% of the revenue is allocated to the material costs of running the project.
+	- **What Hétu Gives (More Resources):** The remaining 20% of the revenue is allocated to the material costs of running the project.
 
-**What Hétu Gets (More Stability):** This 20% pays for the DistroKid distribution fees, the Proton Drive server hosting (so the project files remain free to download), and the maintenance of musical instruments. It also pays for my food, rent, and basic survival. Tamas is the heavy, grounding force; you cannot sustain an ethereal project if the physical body starves. It ensures that I never have to abandon the project due to financial pressure. The loop becomes self-sustaining forever.
+	- **What Hétu Gets (More Stability):** This 20% pays for the DistroKid distribution fees, the Proton Drive server hosting (so the project files remain free to download), and the maintenance of musical instruments. It also pays for my food, rent, and basic survival. Tamas is the heavy, grounding force; you cannot sustain an ethereal project if the physical body starves. It ensures that I never have to abandon the project due to financial pressure. The loop becomes self-sustaining forever.
 
 ### The Math of the Infinite Loop
 When Sattva is introduced, the equation flips from decay to compounding growth. The environment isn't just sustained; it is actively expanded.
