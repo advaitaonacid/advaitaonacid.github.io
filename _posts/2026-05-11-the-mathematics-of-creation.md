@@ -4,6 +4,7 @@ author: Hétu
 date: 2026-05-11 12:00:00 +0530
 categories: [Philosophy, Meta]
 tags: [trinity-model, open-source, vedanta, entropy]
+pin: true
 ---
 
 To manifest something from nothing—to bring the formless (*Nirgun*) into form (*Sagun*)—requires a structure. In Vedantic teachings, the universe relies on three fundamental qualities to carry out any process of creation and sustainment: **Sattva** (purity, balance, giving), **Rajas** (action, creation, passion), and **Tamas** (stability, grounding, preservation). 
