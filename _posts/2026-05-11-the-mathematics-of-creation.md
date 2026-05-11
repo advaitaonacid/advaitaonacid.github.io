@@ -38,34 +38,6 @@ While platforms like YouTube allow you to turn off monetization, closed ecosyste
 
 Instead of rejecting these platforms—which is where most people listen to music—the Trinity Model intercepts this "inevitable revenue" and mathematically routes it to create an upward spiral of global growth.
 
-### Visualizing the Ecosystems
-
-**The Extractive Loop (Downward Spiral)**
-```mermaid
-graph TD
-    A[Environment / Audience] -->|Free Inspiration & Attention| B(Creator)
-    B -->|Gatekeeps Art| C{Revenue}
-    C -->|Hoards Capital| D[Stagnation]
-    D -.->|No Reinvestment| A
-    style A fill:#444,stroke:#333,stroke-width:2px
-    style D fill:#522,stroke:#333,stroke-width:2px
-```
-
-**The Trinity Loop (Upward Spiral)**
-```mermaid
-graph TD
-    E[Environment / Audience] -->|Free Inspiration & Attention| F(Creator)
-    F -->|Rajas: Releases CC0 Art| G{Revenue}
-    G -->|Tamas: 20% Sustenance| H[Project Stability]
-    G -->|Sattva: 80% Offering| I[Charity / Rebuilding]
-    I ==>|Expands Capacity| E
-    H -.->|Maintains Loop| F
-    
-    style E fill:#252,stroke:#333,stroke-width:2px
-    style I fill:#252,stroke:#333,stroke-width:2px
-    style G fill:#552,stroke:#333,stroke-width:2px
-```
-
 ### Decoding the Trinity Loop
 To counter the downward spiral, a process must incorporate Sattva. You must systematically give away what you received for free, ensuring the capital and information generated flow directly back into the environment, increasing the entropy and health of the system.
 
