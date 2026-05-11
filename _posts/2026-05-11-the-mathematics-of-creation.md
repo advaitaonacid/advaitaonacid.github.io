@@ -1,7 +1,7 @@
 ---
 title: "The Mathematics of Creation: Breaking the Downward Spiral"
 author: Hétu
-date: 2026-05-11 12:00:00 +0530
+date: 2026-05-10 12:00:00 +0530
 categories: [Philosophy, Meta]
 tags: [trinity-model, open-source, vedanta, entropy]
 pin: true
@@ -23,7 +23,8 @@ In physics, the universe fundamentally favors **entropy**—the natural spreadin
 
 Imagine an ecosystem consisting of 5 audience members and 1 creator. The creator takes their attention, offering only momentary dopamine in return, and extracts capital. Over time, that audience fatigues, finds better sources of dopamine, or simply cannot sustain the cost. The loop decays. The art eventually dies with the artist because the environment was left poorer than how it was found.
 
-### The Core Philosophy: Free Input = Free Output ચોખ્ખો ને ચટ હિસાબ
+### The Core Philosophy: Free Input = Free Output 
+## ચોખ્ખો ને ચટ હિસાબ
 
 Every piece of art is a byproduct of its environment. To build Hétu, I didn't invent music theory, nor did I write the software from scratch. My knowledge came from consuming free content available on the internet—YouTube tutorials, open-source forums, and shared ideas.
 
